@@ -15,7 +15,7 @@
 
 <!-- GitHub Profile Views -->
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=AshutoshDM1&color=green" alt="ashutosh" />
+    <img src="https://komarev.com/ghpvc/?username=AshutoshDM1&color=blueviolet" alt="ashutosh" />
 </p>
 
 <!-- About Me -->
