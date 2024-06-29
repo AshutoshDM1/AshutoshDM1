@@ -67,10 +67,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-        <img src="https://greensock.com/uploads/profile/photo-18904.png" alt="gsap" width="40" height="40"/>
+        <img src="./assests/gsap.png" alt="gsap" height="40"/>
     </a>
     <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-        <img src="https://www.framer.com/static/images/icons/favicon-96.png" alt="framer motion" width="40" height="40"/>
+        <img src="./assests/framer_motion.png" alt="framer motion" height="40"/>
     </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three js" width="40" height="40"/>
@@ -85,7 +85,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
     <a href="https://zustand.pmnd.rs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" alt="zusthand" width="40" height="40"/>
+        <img src="./assests/zustand.png" alt="zusthand"  height="40"/>
     </a>
     <a href="https://recoiljs.org/" target="_blank" rel="noreferrer">
         <img src="https://recoiljs.org/img/favicon.png" alt="recoil" width="40" height="40"/>
@@ -94,7 +94,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
-        <img src="https://shadcn.dev/logo.png" alt="shadcn" width="40" height="40"/>
+        <img src="./assests/shadcn.png" alt="shadcn"  height="40"/>
     </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/>
@@ -104,14 +104,20 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+    <a href="https://bun.sh/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=bun" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="nodejs" width="40" height="40"/>
+    </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=express" alt="express" height="40"/>
     </a>
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-        <img src="https://restfulapi.net/wp-content/uploads/restful-api.jpg" alt="rest api" width="40" height="40"/>
+        <img src="./assests/restapi.png" alt="rest api" height="40"/>
     </a>
     <a href="https://zod.dev/" target="_blank" rel="noreferrer">
-        <img src="https://zod.dev/logo.png" alt="zod" width="40" height="40"/>
+        <img src="./assests/zod1.jpg" alt="zod" height="40"/>
     </a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer">
         <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
@@ -126,7 +132,7 @@
         <img src="https://www.prisma.io/favicon.ico" alt="Prisma" width="40" height="40"/>
     </a>
     <a href="https://hono.dev/" target="_blank" rel="noreferrer">
-        <img src="https://hono.dev/images/favicon.ico" alt="HONO" width="40" height="40"/>
+        <img src="./assests/hono.png" alt="HONO"  height="40"/>
     </a>
     <!-- DevOps -->
      <h3 align="left">DevOps</h3>
