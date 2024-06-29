@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://discord.gg/RztH8T8G4x" target="_blank">
-        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f6ea8cb-3749-41bc-8826-32d680d113b5/dfjjirj-1b83a303-d1d7-42f2-ba9f-f025447535b7.png" alt="Discord" height="40" />
+        <img src="https://e0.pxfuel.com/wallpapers/175/868/desktop-wallpaper-gradient-discord-logo.jpg" alt="Discord" height="40" />
     </a>
     <a href="https://t.me/ashutosh8377" target="_blank">
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="Telegram" height="40" />
