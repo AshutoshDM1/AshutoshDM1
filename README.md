@@ -79,7 +79,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -123,7 +123,7 @@
         <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -140,16 +140,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.cloudflare.com/img/cf-facebook-card.png" alt="cloudflare" width="40" height="40"/>
+        <img src="./assests/cloudflare.png" alt="cloudflare" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="vercel" width="40" height="40"/>
     </a>
     <a href="https://render.com/" target="_blank" rel="noreferrer">
-        <img src="https://render.com/favicon.ico" alt="render" width="40" height="40"/>
+        <img src="./assests/render.png" alt="render" height="40"/>
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/>
@@ -181,6 +181,7 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshDM1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="ashutosh" />
 </p>
+<br>
 <!-- GitHub Stats more -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshutoshDM1&show_icons=true&locale=en&hide_border=true&theme=holi" alt="ashutosh" /></p>
 <br>
