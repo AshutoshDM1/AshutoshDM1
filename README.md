@@ -176,20 +176,19 @@
     </a>
 </p>
 <br>
-<br>
 <!-- GitHub Stats -->
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshDM1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="ashutosh" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshDM1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="ashutosh" />
 </p>
-<br>
+
 <!-- GitHub Stats more -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshutoshDM1&show_icons=true&locale=en&hide_border=true&theme=holi" alt="ashutosh" /></p>
-<br>
+
 <!-- Activity Graph -->
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshDM1&hide_border=true&theme=react-dark" alt="ashutosh" />
 </p>
-<br>
+
 
 
 
