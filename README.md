@@ -3,8 +3,8 @@
 
 <!-- WakaTime Badge -->
 <p align="right">
-    <a href="https://wakatime.com/@d387a980-9e90-47a7-ab90-7f783ad7dc8f">
-        <img src="https://wakatime.com/badge/user/d387a980-9e90-47a7-ab90-7f783ad7dc8f.svg" alt="Total time coded since Jan 6 2023" />
+    <a href="https://wakatime.com/@c34e365f-01c3-4480-a437-d477dc0aa67b">
+        <img src="https://wakatime.com/badge/user/c34e365f-01c3-4480-a437-d477dc0aa67b.svg" alt="Total time coded since Jun 29 2024" />
     </a>
 </p>
 
@@ -188,7 +188,9 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshDM1&hide_border=true&theme=react-dark" alt="ashutosh" />
 </p>
-
-
+<!-- language Graph -->
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c34e365f-01c3-4480-a437-d477dc0aa67b&layout=compact&theme=holi&range=all_time"/>
+</p>
 
 
