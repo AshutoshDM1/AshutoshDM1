@@ -35,7 +35,7 @@
     <a href="https://t.me/ashutosh8377" target="_blank">
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="Telegram" height="40" />
     </a>
-    <a href="https://x.com/AshutoshDM_1" target="_blank">
+    <a href="https://x.com/Ashutosh" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="Twitter" height="40" />
     </a>
 </p>
