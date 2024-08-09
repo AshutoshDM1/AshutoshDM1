@@ -29,13 +29,13 @@
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://discord.gg/RztH8T8G4x" target="_blank">
+    <a href="https://discord.gg/6ggJNXBy" target="_blank">
         <img src="https://e0.pxfuel.com/wallpapers/175/868/desktop-wallpaper-gradient-discord-logo.jpg" alt="Discord" height="40" />
     </a>
     <a href="https://t.me/ashutosh8377" target="_blank">
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="Telegram" height="40" />
     </a>
-    <a href="https://x.com/Ashutosh" target="_blank">
+    <a href="https://x.com/Ashutosh234234" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="Twitter" height="40" />
     </a>
 </p>
