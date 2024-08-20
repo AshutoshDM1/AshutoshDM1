@@ -70,7 +70,7 @@
         <img src="./assests/gsap.png" alt="gsap" height="40"/>
     </a>
     <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-        <img src="./assests/framer_motion.png" alt="framer motion" height="40"/>
+        <img src="./assests/framer motion.jpg" alt="framer motion" height="40"/>
     </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three js" width="40" height="40"/>
@@ -129,7 +129,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.prisma.io/favicon.ico" alt="Prisma" width="40" height="40"/>
+        <img src="./assests/prisma.png" alt="Prisma" width="40" height="40"/>
     </a>
     <a href="https://hono.dev/" target="_blank" rel="noreferrer">
         <img src="./assests/hono.png" alt="HONO"  height="40"/>
@@ -140,7 +140,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-        <img src="./assests/cloudflare.png" alt="cloudflare" height="40"/>
+        <img src="./assests/cloudflare.jpg" alt="cloudflare" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
