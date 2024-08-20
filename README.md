@@ -1,5 +1,5 @@
-<!-- Header Image -->       
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">  
+<!-- Header Image -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
 
 <!-- WakaTime Badge -->
 <p align="right">
@@ -58,6 +58,12 @@
     <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=golang" alt="golang" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
+    </a>
     <!-- Frontend -->
      <h3 align="left">Frontend</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -73,7 +79,7 @@
         <img src="./assests/framer motion.jpg" alt="framer motion" height="40"/>
     </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three js" width="40" height="40"/>
+        <img style="background-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three js" width="40" height="40"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
@@ -94,7 +100,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
-        <img src="./assests/shadcn.png" alt="shadcn"  height="40"/>
+        <img src="./assests/shadcn.jpg" alt="shadcn"  height="40"/>
     </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/>
@@ -192,5 +198,3 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c34e365f-01c3-4480-a437-d477dc0aa67b&layout=compact&theme=holi&range=all_time"/>
 </p>
-
-
