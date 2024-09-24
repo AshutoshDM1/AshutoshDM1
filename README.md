@@ -90,9 +90,6 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
-    <a href="https://zustand.pmnd.rs/" target="_blank" rel="noreferrer">
-        <img src="./assests/zustand.png" alt="zusthand"  height="40"/>
-    </a>
     <a href="https://recoiljs.org/" target="_blank" rel="noreferrer">
         <img src="https://recoiljs.org/img/favicon.png" alt="recoil" width="40" height="40"/>
     </a>
@@ -137,25 +134,16 @@
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="./assests/prisma.png" alt="Prisma" width="40" height="40"/>
     </a>
-    <a href="https://hono.dev/" target="_blank" rel="noreferrer">
-        <img src="./assests/hono.png" alt="HONO"  height="40"/>
-    </a>
     <!-- DevOps -->
      <h3 align="left">DevOps</h3>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-        <img src="./assests/cloudflare.jpg" alt="cloudflare" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="vercel" width="40" height="40"/>
-    </a>
-    <a href="https://render.com/" target="_blank" rel="noreferrer">
-        <img src="./assests/render.png" alt="render" height="40"/>
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/>
